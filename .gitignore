@@ -1,11 +1,16 @@
+# customized gitignore
+.DS_Store
+*.json
+stage
+
+# end
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 
 # C extensions
 *.so
-.DS_Store
-stage
 
 # Distribution / packaging
 .Python
